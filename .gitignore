@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Created by .ignore support plugin (hsz.mobi)
+build
+node_modules
+ncp-debug.log
+npm-debug.log
+
+.idea/
+.travis.yml
+yarn-error.log
+.yarnclean
+.flowconfig
+LICENSE.txt
+
+package-lock.json
+yarn.lock
+
+.DS_Store
+*/.DS_Store
